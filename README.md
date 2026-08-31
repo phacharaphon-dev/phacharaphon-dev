@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, I'm Phacharaphon
+A 3rd-year Computer Engineering Student at Sripatum University passionate about Mobile App Development and IoT Solutions.
 
-<!--
-**phacharaphon-dev/phacharaphon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="mailto:ใส่อีเมลของคุณที่นี่@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="ใส่ลิงก์หน้าโปรไฟล์-LinkedIn-ของคุณที่นี่">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,figma,aws,python,mysql,git,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="300" src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-project-4468705-3728612.png" />
