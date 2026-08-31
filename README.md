@@ -14,5 +14,3 @@ A 4rd-year Computer Engineering Student at Sripatum University passionate about 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,figma,aws,python,mysql,git,vscode" />
 </p>
-
-<img align="right" width="300" src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-project-4468705-3728612.png" />
