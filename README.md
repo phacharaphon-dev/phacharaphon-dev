@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Phacharaphon
-A 3rd-year Computer Engineering Student at Sripatum University passionate about Mobile App Development and IoT Solutions.
+A 4rd-year Computer Engineering Student at Sripatum University passionate about Mobile App Development and IoT Solutions.
 
 <p align="left">
   <a href="mailto:ใส่อีเมลของคุณที่นี่@gmail.com">
