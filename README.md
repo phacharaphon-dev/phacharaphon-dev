@@ -12,5 +12,7 @@ A 4rd-year Computer Engineering Student at Sripatum University passionate about 
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,supabase,sql,figma,aws,python,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,figma,aws,python,mysql,git,vscode" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
